@@ -1,5 +1,13 @@
 ## Spooky (Alexander Noles)
 
+My name is **Alex (Spooky/Spook)**, I am a UK student, studying computer science at Sussex University in September. Currently I am on my gap year and have used that time to develop and publish a videogame. 
+
+It is called **"Dash and Slash"** and it can be found here: 
+
+https://store.steampowered.com/app/1951910/Dash_And_Slash   (Release version)
+
+https://github.com/AlexanderNoles/OneButtonJam              (Jam version)
+
 <details>
   <p><summary>Past Game Jams</summary></p>
   <a href="https://github.com/Piturnah/dicethulhu">
