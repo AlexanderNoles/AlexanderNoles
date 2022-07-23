@@ -10,6 +10,9 @@ https://github.com/AlexanderNoles/OneButtonJam              (Jam version)
 
 <details>
   <p><summary>Past Game Jams</summary></p>
+  <a href="https://github.com/AlexanderNoles/MiniJam111">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderNoles&repo=MiniJam111">
+  </a>
   <a href="https://github.com/Piturnah/dicethulhu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=dicethulhu">
   </a>
