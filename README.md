@@ -22,7 +22,7 @@ https://github.com/AlexanderNoles/OneButtonJam              (Jam version)
 </details>
 
 <details>
-  <p><summary>Past Game Jams</summary></p>
+  <p><summary>Past Game Jams (Public repos only)</summary></p>
   <a href="https://github.com/AlexanderNoles/MiniJam111">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderNoles&repo=MiniJam111">
   </a>
