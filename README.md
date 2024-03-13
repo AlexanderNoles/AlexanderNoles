@@ -10,6 +10,9 @@ https://github.com/AlexanderNoles/OneButtonJam              (Jam version)
 
 <details>
   <p><summary>University Work</summary></p>
+  <a href="https://github.com/AlexanderNoles/SE-Risk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderNoles&repo=SE-Risk">
+  </a>
   <a href="https://github.com/AlexanderNoles/ITMPortfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderNoles&repo=ITMPortfolio">
   </a>
