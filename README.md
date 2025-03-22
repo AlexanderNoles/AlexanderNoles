@@ -1,6 +1,6 @@
-## Spooky (Alexander Noles)
+## Spoony (Alexander Noles)
 
-My name is **Alex (Spooky/Spook)**, I am a UK student, studying computer science at Sussex University. Currently I am in my first year. On my gap year I developed and published a videogame. 
+My name is **Alex (Spoony/Spoon)**, I am a UK student, studying computer science at Sussex University. Currently I am in my final year, creating a video game as my final year project. On my gap year I developed and published a videogame. 
 
 It is called **"Dash and Slash"** and it can be found here: 
 
